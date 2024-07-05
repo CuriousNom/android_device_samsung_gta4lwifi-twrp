@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/samsung/gta4l
+DEVICE_PATH := device/samsung/gta4lwifi
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true
