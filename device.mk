@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/samsung/gta4l
+LOCAL_PATH := device/samsung/gta4lwifi
