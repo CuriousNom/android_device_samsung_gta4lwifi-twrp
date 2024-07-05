@@ -13,12 +13,12 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Inherit from gta4l device
-$(call inherit-product, device/samsung/gta4l/device.mk)
+$(call inherit-product, device/samsung/gta4lwifi/device.mk)
 
-PRODUCT_DEVICE := gta4l
-PRODUCT_NAME := omni_gta4l
+PRODUCT_DEVICE := gta4lwifi
+PRODUCT_NAME := omni_gta4lwifi
 PRODUCT_BRAND := samsung
-PRODUCT_MODEL := SM-T505
+PRODUCT_MODEL := SM-T500
 PRODUCT_MANUFACTURER := samsung
 
 PRODUCT_GMS_CLIENTID_BASE := android-samsung-ss
