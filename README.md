@@ -1,4 +1,4 @@
-# Android device tree for samsung SM-T505 (gta4l)
+# Android device tree for samsung SM-T500 (gta4lwifi)
 
 ```
 #
